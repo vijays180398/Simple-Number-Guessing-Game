@@ -1,0 +1,11 @@
+🎯 Welcome to Number Guessing Game!
+Guess a number between 1 and 100
+You have 5 attempts.
+
+Enter your guess: 50
+Too High!
+Attempts left: 4
+
+Enter your guess: 25
+Too Low!
+Attempts left: 3
